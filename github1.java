@@ -1,7 +1,7 @@
 Question:-
 There is an automatic vending machine that decides what items it will give out for the money inserted into it.
 
-The vending machine has 2 kinds of items - Snacks Drinks. The rate card is below
+The vending and machine has 2 kinds of items - Snacks Drinks. The rate card is below
 
 SNACKS        | Price | Drinks        | Price
 --------------------------------------------------------
