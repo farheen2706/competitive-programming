@@ -7,7 +7,7 @@ SNACKS        | Price | Drinks        | Price
 --------------------------------------------------------
 Potato Chips  |  10   | Coke          |  7 
 Cracker       |  12   | Lemonade      |  10 
-PopCorn       |  5    | Orange Juice  |  11
+PopCorn       |  7    | Orange Juice  |  11
 Cashew        |  15   | Milkshake     |  15
 
 
